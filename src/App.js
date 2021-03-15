@@ -16,7 +16,7 @@ import PhoneInfoList from './components/PhoneInfoList';
 
 class App extends Component {
 
-  id = 0;
+  id = 0; 
 
   state = {
     inform: [],
